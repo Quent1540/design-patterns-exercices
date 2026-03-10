@@ -42,6 +42,7 @@
       <excludeFolder url="file://$MODULE_DIR$/decorator/vendor/staabm/side-effects-detector" />
       <excludeFolder url="file://$MODULE_DIR$/decorator/vendor/theseer/tokenizer" />
       <excludeFolder url="file://$MODULE_DIR$/factory/vendor/composer" />
+      <excludeFolder url="file://$MODULE_DIR$/singleton/vendor/composer" />
     </content>
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />
